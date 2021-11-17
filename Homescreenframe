@@ -1,6 +1,6 @@
-//Generierung des ersten Frames
+// Homescreenframe
 
-
+<!-- Homescreen -->
 <RelativeLayout
 xmlns:android="http://schemas.android.com/apk/res/android"
 android:id="@+id/homescreen"
