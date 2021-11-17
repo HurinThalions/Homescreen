@@ -1,0 +1,26 @@
+//Generierung des ersten Frames
+
+
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/homescreen"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="@drawable/homescreen"
+ />
+
+<!-- drawable/homescreen.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="414dp"
+android:height="736dp"
+android:viewportWidth="414"
+android:viewportHeight="736"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H414V736H0V0Z"
+/>
+</group>
+</vector>
